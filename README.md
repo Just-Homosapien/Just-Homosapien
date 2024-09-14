@@ -1,5 +1,5 @@
 # Hello! I'm Just-Homosapien
- I'm a Web developer. This Github account showcases my projects, experiments, and learining.
+ I'm a Web developer. This Github account showcases my projects, experiments, and learning.
 ## Skills
 - HTML
 - CSS
