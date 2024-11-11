@@ -1,4 +1,4 @@
-# Hi, I'm Just-Homosapien
+# Hi, I'm Omika
  I'm a Web Developer. This Github account showcases my projects, experiments, and learning.
 ## Skills
 - HTML
